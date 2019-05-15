@@ -23,17 +23,17 @@ alias mto='ManyToOne'
 alias otm='OneToMany'
 alias oto='OneToOne'
 
-# Pour PHP
+# Pour PHP server
 alias 8000='php -S localhost:8000 -t public'
 alias 8001='php -S localhost:8001 -t public'
 alias 8002='php -S localhost:8002 -t public'
 alias 8003='php -S localhost:8003 -t public'
 alias 8004='php -S localhost:8004 -t public'
-alias 8005='php -S localhost:8005 -t public'
-alias 8006='php -S localhost:8006 -t public'
-alias 8007='php -S localhost:8007 -t public'
-alias 8008='php -S localhost:8008 -t public'
-alias 8009='php -S localhost:8009 -t public'
+alias 8005='php -S localhost:8005'
+alias 8006='php -S localhost:8006'
+alias 8007='php -S localhost:8007'
+alias 8008='php -S localhost:8008'
+alias 8009='php -S localhost:8009'
 alias 8010='pma; php -S localhost:8010' # pour phpMyAdmin
 
 # Pour git
